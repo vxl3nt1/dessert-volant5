@@ -1,0 +1,16 @@
+.banner{
+background-image: url(../../images/buffet.png);
+background-size: cover;
+background-position: center;
+padding: 150px 0;
+margin: 30px auto;
+text-align: center;
+color: white;
+border-bottom-style: solid;
+border-top-style: solid;
+}
+
+.banner {
+background-image: center;
+}
+

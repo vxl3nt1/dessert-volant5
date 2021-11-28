@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/card.css');
+@import url('components/banner.css');
+@import url('components/divider.css');
+@import url('components/navbar.css');
+
+
+body {
+background-image: url(../images/straw.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+font-family: Arial, serif;
+font-size: 18px;
+margin: 0px;
+}
+
+
+h1,h2 { 
+font-weight: bold;
+font-size: 40px;
+color: white;
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+
+}
+
+h1{
+letter-spacing: 10px;
+font-size: 60px;
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+font-weight: normal;
+font size: 10px;
+font-family: Arial, serif;
+text-align: justify;
+}
+
+a{
+text-decoration: none;
+}
+
+#moi{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+margin-right: 10px;
+}
+
+#deuxieme{ 
+box-shadow: 0px 10px 30px rgba(0,0,0,1);
+padding: 30px;
+border-radius: 6px;
+}
+
+#troisieme{
+box-shadow: 0px 10px 30px rgba(0,0,0,1);
+padding: 30px;
+border-radius: 6px;
+}
+
+#troisieme button-blue{
+}
+
+
+#banniere{
+background-color: transparent;
+font-size: 30px;
+}
+
+#banniere p{
+text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+}
+
+
